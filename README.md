@@ -22,6 +22,7 @@ A curated directory of high-quality web tools, software, and calculators designe
 *Interactive digital tools to handle routine lab math accurately.*
 
 * [Buffer Calculator](https://www.sigmaaldrich.com/GB/en/support/calculators-and-apps/buffer-calculator) – Computes exact mass requirements for preparing specific biological buffer solutions.
+* [Calculation Hub Dilution Calculator](https://calculation-hub.com/chemistry/c1v1-c2v2) – Free educational C1V1=C2V2 arithmetic using matching units; not dosing, protocol, or laboratory-safety validation.
 
 ## Experimental Protocols & Methodologies
 *Step-by-step laboratory execution guides and product-specific assay guidelines.*
